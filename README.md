@@ -1,8 +1,1 @@
 # CBS-Learning
-## DNS and IP
-IP identifies a device on a network.
-DNS turns names like `example.com` into IP addresses.
-## What I tried
-- ipconfig: my private IP is 172.20.x.x
-- "What is my IP" site: public IP starts with 84
-- They differ because of NAT
